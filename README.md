@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Indira</h1>
 <h3 align="center">Data Analyst</h3>
-<img align="right" width="100" height=“400" src=”https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/Unlocking-Value-image.gif”>
-
+<img align="right" width="100" height=“400" src=”https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/Unlocking-Value-image.gif” >
 
 - 🔭 I’m currently working on **projects related to Data Engineering (docker, postgres, python, dbt)**
 
