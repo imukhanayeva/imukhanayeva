@@ -4,12 +4,6 @@
 <h3 align="center">Data Analyst</h3>
 <img align="right" width="100" height=“400" src=”https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/Unlocking-Value-image.gif” >
 
-- 🔭 I’m currently working on **projects related to Data Engineering (docker, postgres, python, dbt)**
-
-- 🌱 I’m currently learning **Amazon Web Services and Tableau**
-
-
-- 📫 How to reach me **kabylbek.data@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
